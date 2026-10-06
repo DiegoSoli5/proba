@@ -1,0 +1,24 @@
+{
+  "status": "correcto",
+  "viewports": [
+    390,
+    768,
+    1440
+  ],
+  "page_errors": [],
+  "http_failures": [],
+  "checks": [
+    "presets t y Z",
+    "cambio de alpha y cola",
+    "muestreo de 100 registros",
+    "filtros y registros agrupados",
+    "paginación",
+    "7 pasos",
+    "TLC",
+    "potencia",
+    "quiz",
+    "descarga de muestra",
+    "originales descargables",
+    "sin desbordamiento horizontal"
+  ]
+}

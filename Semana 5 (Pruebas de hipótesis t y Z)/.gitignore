@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.openai/source.git/
+paquete-sitio.tar.gz
+paquete-proyecto.tar.gz
